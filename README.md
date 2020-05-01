@@ -1,4 +1,4 @@
-# bootstrapPortfolio
+# Bootstrap Portfolio
 This is a mini-portfolio about myself using HTML powered by the CSS framework Bootstrap. 
 ## Live Url
 [Live application](https://usualketchup.github.io/bootstrapPortfolio/index.html)
@@ -13,5 +13,3 @@ This website uses HTML and the framework Bootstrap to improve the aesthetic feat
 ## Challenges 
 Some challenges that I faced making this website was learning how to properly use Bootstrap and how to readjust more things about each website.
 As I learned more about these files, I learned that it was not too difficult to work through all of the files and fix things that needed more padding or something like that.
-
-Screenshots
